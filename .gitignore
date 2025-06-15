@@ -1,0 +1,12 @@
+# Gradle files
+.gradle/
+build/
+local.properties
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Generated
+/build/
+gradle/wrapper/gradle-wrapper.jar
